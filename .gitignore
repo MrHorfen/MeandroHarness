@@ -1,0 +1,22 @@
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时与缓存
+temp/
+*.log
+node_modules/
+__pycache__/
+*.pyc
+
+# 本机内部文件（不要在公开版提交）
+*.local
+*.env
+credentials*
+*.pem
+*.key
